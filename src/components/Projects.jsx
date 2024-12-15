@@ -5,6 +5,7 @@ import projImg1 from "../assets/img/project-img1.png";
 import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
 import projImg4 from "../assets/img/project-img4.png";
+import projImg5 from "../assets/img/project-img5.png";
 import colorSharp2 from "../assets/img/banner-bg1.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -32,14 +33,14 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      // imgUrl: projImg,
+      title: "Hospital Management System",
+      description: "Hospital Management System PHP",
+      imgUrl: projImg5,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
-      // imgUrl: projImg3,
+      title: " Blog Website",
+      description: "Blog Website Laravel",
+      imgUrl: projImg5,
     },
   ];
 
